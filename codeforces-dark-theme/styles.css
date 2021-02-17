@@ -1,0 +1,82 @@
+body {
+  background-color: black !important;
+  color: white !important;
+}
+a {
+  color: deepskyblue !important;
+}
+.problem-statement .header {
+  color: white !important;
+}
+.roundbox {
+  background-color: black;
+  color: white;
+}
+.roundbox {
+  background: black !important;
+}
+.roundbox table.rtable {
+  background-color: beige;
+}
+.MathJax span {
+  color: white !important;
+}
+
+#sidebar input {
+  background: darkgray !important;
+}
+
+.problem-statement .input-specification,
+.problem-statement .output-specification,
+.problem-statement .sample-tests,
+.problem-statement .author,
+.problem-statement .resource,
+.problem-statement .date {
+  color: white !important;
+}
+.backLava {
+  display: none !important;
+  visibility: none !important;
+}
+.MathJax_Preview {
+  color: white;
+}
+div.ttypography .MathJax {
+  color: white !important;
+}
+.problem-statement .sample-tests pre {
+  background-color: black !important;
+  color: deepskyblue !important;
+}
+div.ttypography pre,
+div.ttypography code {
+  color: deepskyblue !important;
+}
+
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+form,
+fieldset,
+input,
+p,
+blockquote,
+th td {
+  color: white !important;
+}
+.datatable td,
+.datatable th {
+  background-color: black !important;
+}

@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "Zee-AD_blocker",
+  "version": "0.1.0",
+  "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+  "background": {
+    "scripts": ["blocker.js"]
+  }
+}

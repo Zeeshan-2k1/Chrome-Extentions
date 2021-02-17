@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Codeforces Dark Theme",
+    "version": "0.1.0",
+    "icons": {
+        "128": "icon.png"
+      },
+    "content_scripts": [
+        {
+            "matches": ["https://codeforces.com/problemset/*"],
+            "css": ["styles.css"]
+        }
+    ]
+}
